@@ -1,0 +1,4 @@
+*.session.sql
+.vscode/
+*.code-workspace
+GitMenu.sh

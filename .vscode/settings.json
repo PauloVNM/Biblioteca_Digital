@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Biblioteca Digital",
+            "database": "biblioteca_db",
+            "username": "admin_biblio",
+            "password": "123456"
+        }
+    ]
+}
