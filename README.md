@@ -30,3 +30,5 @@ Para garantir a integridade dos dados sem sobrecarregar o backend com validaçõ
 ## 🚀 Como Executar
 
 *(Instruções de clonagem, configuração das credenciais do banco no `application.properties` e execução do Spring Boot via terminal devem ser inseridas aqui após o primeiro deploy local).*
+
+
